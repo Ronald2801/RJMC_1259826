@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\RONALD\\Documents\\GitHub\\RJMC_1259826\\Laboratorio-07\\L7_RJMC_1259826\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{906DCCCB-AD26-47D8-895F-F290AF942D84}|L7_RJMC_1259826\\L7_RJMC_1259826.csproj|c:\\users\\ronald\\documents\\github\\rjmc_1259826\\laboratorio-07\\l7_rjmc_1259826\\l7_rjmc_1259826\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{906DCCCB-AD26-47D8-895F-F290AF942D84}|L7_RJMC_1259826\\L7_RJMC_1259826.csproj|solutionrelative:l7_rjmc_1259826\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\RONALD\\Documents\\GitHub\\RJMC_1259826\\Laboratorio-07\\L7_RJMC_1259826\\L7_RJMC_1259826\\Program.cs",
+              "RelativeDocumentMoniker": "L7_RJMC_1259826\\Program.cs",
+              "ToolTip": "C:\\Users\\RONALD\\Documents\\GitHub\\RJMC_1259826\\Laboratorio-07\\L7_RJMC_1259826\\L7_RJMC_1259826\\Program.cs",
+              "RelativeToolTip": "L7_RJMC_1259826\\Program.cs",
+              "ViewState": "AgIAAKkAAAAAAAAAAAAAAMcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T02:45:44.117Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

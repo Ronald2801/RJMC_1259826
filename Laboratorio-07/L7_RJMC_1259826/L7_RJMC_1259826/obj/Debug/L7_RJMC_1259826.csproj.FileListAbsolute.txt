@@ -1,0 +1,14 @@
+C:\Users\RONALD\Documents\L7_RJMC_1259826\L7_RJMC_1259826\obj\Debug\L7_RJMC_1259826.csproj.AssemblyReference.cache
+C:\Users\RONALD\Documents\L7_RJMC_1259826\L7_RJMC_1259826\obj\Debug\L7_RJMC_1259826.csproj.CoreCompileInputs.cache
+C:\Users\RONALD\Documents\L7_RJMC_1259826\L7_RJMC_1259826\bin\Debug\L7_RJMC_1259826.exe.config
+C:\Users\RONALD\Documents\L7_RJMC_1259826\L7_RJMC_1259826\bin\Debug\L7_RJMC_1259826.exe
+C:\Users\RONALD\Documents\L7_RJMC_1259826\L7_RJMC_1259826\bin\Debug\L7_RJMC_1259826.pdb
+C:\Users\RONALD\Documents\L7_RJMC_1259826\L7_RJMC_1259826\obj\Debug\L7_RJMC_1259826.exe
+C:\Users\RONALD\Documents\L7_RJMC_1259826\L7_RJMC_1259826\obj\Debug\L7_RJMC_1259826.pdb
+C:\Users\RONALD\Documents\GitHub\RJMC_1259826\Laboratorio-07\L7_RJMC_1259826\L7_RJMC_1259826\obj\Debug\L7_RJMC_1259826.csproj.AssemblyReference.cache
+C:\Users\RONALD\Documents\GitHub\RJMC_1259826\Laboratorio-07\L7_RJMC_1259826\L7_RJMC_1259826\obj\Debug\L7_RJMC_1259826.csproj.CoreCompileInputs.cache
+C:\Users\RONALD\Documents\GitHub\RJMC_1259826\Laboratorio-07\L7_RJMC_1259826\L7_RJMC_1259826\obj\Debug\L7_RJMC_1259826.exe
+C:\Users\RONALD\Documents\GitHub\RJMC_1259826\Laboratorio-07\L7_RJMC_1259826\L7_RJMC_1259826\obj\Debug\L7_RJMC_1259826.pdb
+C:\Users\RONALD\Documents\GitHub\RJMC_1259826\Laboratorio-07\L7_RJMC_1259826\L7_RJMC_1259826\bin\Debug\L7_RJMC_1259826.exe.config
+C:\Users\RONALD\Documents\GitHub\RJMC_1259826\Laboratorio-07\L7_RJMC_1259826\L7_RJMC_1259826\bin\Debug\L7_RJMC_1259826.exe
+C:\Users\RONALD\Documents\GitHub\RJMC_1259826\Laboratorio-07\L7_RJMC_1259826\L7_RJMC_1259826\bin\Debug\L7_RJMC_1259826.pdb
