@@ -1,0 +1,7 @@
+C:\Users\RONALD\Documents\GitHub\RJMC_1259826\Laboratorio-08\Laboratorio-08\obj\Debug\Laboratorio-08.csproj.AssemblyReference.cache
+C:\Users\RONALD\Documents\GitHub\RJMC_1259826\Laboratorio-08\Laboratorio-08\obj\Debug\Laboratorio-08.csproj.CoreCompileInputs.cache
+C:\Users\RONALD\Documents\GitHub\RJMC_1259826\Laboratorio-08\Laboratorio-08\bin\Debug\Laboratorio-08.exe.config
+C:\Users\RONALD\Documents\GitHub\RJMC_1259826\Laboratorio-08\Laboratorio-08\bin\Debug\Laboratorio-08.exe
+C:\Users\RONALD\Documents\GitHub\RJMC_1259826\Laboratorio-08\Laboratorio-08\bin\Debug\Laboratorio-08.pdb
+C:\Users\RONALD\Documents\GitHub\RJMC_1259826\Laboratorio-08\Laboratorio-08\obj\Debug\Laboratorio-08.exe
+C:\Users\RONALD\Documents\GitHub\RJMC_1259826\Laboratorio-08\Laboratorio-08\obj\Debug\Laboratorio-08.pdb
