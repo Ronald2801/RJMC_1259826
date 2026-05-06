@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\RONALD\\Documents\\GitHub\\RJMC_1259826\\Laboratorio-12\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CC8B04A3-EC96-4C40-8A10-49465EE790EE}|Laboratorio-12\\Laboratorio-12.csproj|c:\\users\\ronald\\documents\\github\\rjmc_1259826\\laboratorio-12\\laboratorio-12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC8B04A3-EC96-4C40-8A10-49465EE790EE}|Laboratorio-12\\Laboratorio-12.csproj|solutionrelative:laboratorio-12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\RONALD\\Documents\\GitHub\\RJMC_1259826\\Laboratorio-12\\Laboratorio-12\\Program.cs",
+              "RelativeDocumentMoniker": "Laboratorio-12\\Program.cs",
+              "ToolTip": "C:\\Users\\RONALD\\Documents\\GitHub\\RJMC_1259826\\Laboratorio-12\\Laboratorio-12\\Program.cs*",
+              "RelativeToolTip": "Laboratorio-12\\Program.cs*",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAqwE4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T15:06:27.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

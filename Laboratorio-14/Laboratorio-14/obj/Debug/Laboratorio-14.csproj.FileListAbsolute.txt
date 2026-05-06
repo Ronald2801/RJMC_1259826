@@ -1,0 +1,7 @@
+C:\Users\RONALD\Documents\GitHub\RJMC_1259826\Laboratorio-14\Laboratorio-14\obj\Debug\Laboratorio-14.csproj.AssemblyReference.cache
+C:\Users\RONALD\Documents\GitHub\RJMC_1259826\Laboratorio-14\Laboratorio-14\obj\Debug\Laboratorio-14.csproj.CoreCompileInputs.cache
+C:\Users\RONALD\Documents\GitHub\RJMC_1259826\Laboratorio-14\Laboratorio-14\bin\Debug\Laboratorio-14.exe.config
+C:\Users\RONALD\Documents\GitHub\RJMC_1259826\Laboratorio-14\Laboratorio-14\bin\Debug\Laboratorio-14.exe
+C:\Users\RONALD\Documents\GitHub\RJMC_1259826\Laboratorio-14\Laboratorio-14\bin\Debug\Laboratorio-14.pdb
+C:\Users\RONALD\Documents\GitHub\RJMC_1259826\Laboratorio-14\Laboratorio-14\obj\Debug\Laboratorio-14.exe
+C:\Users\RONALD\Documents\GitHub\RJMC_1259826\Laboratorio-14\Laboratorio-14\obj\Debug\Laboratorio-14.pdb
