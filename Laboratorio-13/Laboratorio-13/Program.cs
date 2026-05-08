@@ -51,11 +51,11 @@ namespace Laboratorio_13
         {
             vehiculo v = new vehiculo();
 
-            v.marca = "Toyota";
-            v.modelo = "Corolla";
-            v.anio = 2020;
-            v.color = "Rojo";
-            v.placa = "5BD927";
+            v.marca = "BMW";
+            v.modelo = "X5M";
+            v.anio = 2025;
+            v.color = "Negro";
+            v.placa = "5BD92G7";
 
             Console.WriteLine("---------VEHICULO---------");
             Console.WriteLine("Marca: " + v.marca);
@@ -85,14 +85,14 @@ namespace Laboratorio_13
             producto prod2 = new producto();
 
             prod1.codigo = "1561078105407841635";
-            prod1.nombre = "Laptop";
-            prod1.precio = 5000.00;
-            prod1.stock = 10;
+            prod1.nombre = "Azucar";
+            prod1.precio = 5.00;
+            prod1.stock = 150;
             prod1.disponible = true;
 
             prod2.codigo = "1561078105407841636";
-            prod2.nombre = "Mouse";
-            prod2.precio = 50.00;
+            prod2.nombre = "Arroz";
+            prod2.precio = 4.00;
             prod2.stock = 100;
             prod2.disponible = true;
 
@@ -132,9 +132,9 @@ namespace Laboratorio_13
         {
             macota m = new macota();
 
-            m.nombre = "Firulais";
+            m.nombre = "Oso";
             m.especie = "Perro";
-            m.edad = 5;
+            m.edad = 7;
             m.peso = 20.5;
             m.vacunado = true;
 
