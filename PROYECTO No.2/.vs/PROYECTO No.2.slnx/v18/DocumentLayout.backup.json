@@ -14,17 +14,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\RONALD\\Documents\\GitHub\\RJMC_1259826\\PROYECTO No.2\\PROYECTO No.2\\Program.cs",
               "RelativeDocumentMoniker": "PROYECTO No.2\\Program.cs",
-              "ToolTip": "C:\\Users\\RONALD\\Documents\\GitHub\\RJMC_1259826\\PROYECTO No.2\\PROYECTO No.2\\Program.cs",
-              "RelativeToolTip": "PROYECTO No.2\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\RONALD\\Documents\\GitHub\\RJMC_1259826\\PROYECTO No.2\\PROYECTO No.2\\Program.cs*",
+              "RelativeToolTip": "PROYECTO No.2\\Program.cs*",
+              "ViewState": "AgIAAJkAAAAAAAAAAAAuwLgAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-07T05:57:55.776Z",
               "EditorCaption": ""

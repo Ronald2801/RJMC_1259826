@@ -1,0 +1,7 @@
+C:\Users\RONALD\Documents\GitHub\RJMC_1259826\PROYECTO No.2\PROYECTO No.2\obj\Debug\PROYECTO No.2.csproj.AssemblyReference.cache
+C:\Users\RONALD\Documents\GitHub\RJMC_1259826\PROYECTO No.2\PROYECTO No.2\obj\Debug\PROYECTO No.2.csproj.CoreCompileInputs.cache
+C:\Users\RONALD\Documents\GitHub\RJMC_1259826\PROYECTO No.2\PROYECTO No.2\bin\Debug\PROYECTO No.2.exe.config
+C:\Users\RONALD\Documents\GitHub\RJMC_1259826\PROYECTO No.2\PROYECTO No.2\bin\Debug\PROYECTO No.2.exe
+C:\Users\RONALD\Documents\GitHub\RJMC_1259826\PROYECTO No.2\PROYECTO No.2\bin\Debug\PROYECTO No.2.pdb
+C:\Users\RONALD\Documents\GitHub\RJMC_1259826\PROYECTO No.2\PROYECTO No.2\obj\Debug\PROYECTO No.2.exe
+C:\Users\RONALD\Documents\GitHub\RJMC_1259826\PROYECTO No.2\PROYECTO No.2\obj\Debug\PROYECTO No.2.pdb
