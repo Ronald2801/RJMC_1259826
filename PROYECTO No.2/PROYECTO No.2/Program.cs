@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 
 namespace PROYECTO_No._2
@@ -150,9 +146,9 @@ class Parcela
 
                 
                 // MATRIZ DE PARCELAS
-                
-
-                Parcela[,] parcelas = new Parcela[filas, columnas];
+   
+                                            
+            Parcela[,] parcelas = new Parcela[filas, columnas];
 
                 for (int i = 0; i < filas; i++)
                 {
@@ -481,16 +477,19 @@ class Parcela
                 Console.WriteLine("Egresos totales: Q" + egresosTotales);
                 Console.WriteLine("Meses simulados: " + mesesSimulados);
 
+                Console.WriteLine();
                 Console.WriteLine("     Parcelas sembradas");
                 Console.WriteLine("Papas: " + papasSembradas);
                 Console.WriteLine("Tomates: " + tomatesSembrados);
                 Console.WriteLine("Fresas: " + fresasSembradas);
 
+                Console.WriteLine();
                 Console.WriteLine("     Cosechas realizadas");
                 Console.WriteLine("Papas: " + papasCosechadas);
                 Console.WriteLine("Tomates: " + tomatesCosechados);
                 Console.WriteLine("Fresas: " + fresasCosechadas);
 
+                Console.WriteLine();
                 Console.WriteLine("Total de riegos: " + totalRiegos);
                 Console.WriteLine("Parcelas vacías al finalizar: " + parcelasVacias);
 
